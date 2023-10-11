@@ -1,3 +1,3 @@
-a = 20
-b = 2
-print(a+b)
+#This is just a hello message
+
+print("hello")
